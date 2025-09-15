@@ -1,0 +1,47 @@
+# Node.js (Frontend)
+FE/node_modules/
+FE/dist/
+FE/.env
+FE/.DS_Store
+FE/.vscode/
+
+# Java (Backend)
+BE/target/
+BE/.idea/
+BE/.classpath
+BE/.project
+BE/.settings/
+BE/.vscode/
+BE/.DS_Store
+BE/.env
+
+# Chrome Extension
+Extension/.DS_Store
+Extension/.vscode/
+
+# OS/Editor files
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Misc
+.env
+*.iml
+
+# IDE
+.vscode/
+.idea/
+
+# Maven
+BE/.mvn/
+BE/mvnw*
+
+# Build
+/build/
+
+# Others
+*.bak
+*.old
+
